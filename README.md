@@ -10,6 +10,12 @@
 
 <br/>
 
+> [!IMPORTANT]
+> Vue I18n v8 is no longer actively maintained. Please upgrade to Vue I18n v9.
+> The seucirty hotfix is only provided for Vue I18n v8.28 until end of 2024.
+
+Thereafter, security fix is not provide for that version later. However, if it is absolutely necessary, please contact to contact@frapwings.jp
+
 <h3 align="center">🏅 Platinum Sponsors</h3>
 
 <p align="center">
@@ -59,7 +65,7 @@
 </p>
 
 <p align="center">
-  <a 
+  <a
     href="https://crowdin.com/teams/engineering?utm_source=vue-i18n.intlify.dev&utm_medium=referral"
     target="_blank">
     <img
