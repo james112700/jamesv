@@ -1,6 +1,10 @@
 # Introduction
 
 :::warning Notice
+Vue I18n v8 is no longer actively maintained. Please upgrade to Vue I18n v9 or later. **The seucirty hotfix is only provided for Vue I18n v8.28 until end of 2024**. Thereafter, security fix is not provide for that version later. However, if it is absolutely necessary, please contact to contact@frapwings.jp
+:::
+
+:::warning Notice
 You are reading the documentation of Vue I18n v8.x **for Vue 2**. If you are working with Vue 3, use the Vue I18n v9 [documentation](https://vue-i18n.intlify.dev/) instead.
 :::
 
@@ -27,7 +31,7 @@ Go to [Get Started](./started.md)
   </a>
 </p>
 
-### ✨ Special 
+### ✨ Special
 
 <p style="text-align: center;">
   <a
